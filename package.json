@@ -1,6 +1,6 @@
 {
   "name": "shelly-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Core components for Shelly React.js apps",
   "main": "main.js",
   "author": "Shelly Studio LLC",
